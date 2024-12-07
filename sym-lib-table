@@ -3,4 +3,5 @@
   (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-S3-MINI-1-N4R2")(type "KiCad")(uri "/Users/stanislawzalewski/Downloads/ESP32-S3-MINI-1-N4R2/ESP32-S3-MINI-1-N4R2.kicad_sym")(options "")(descr ""))
   (lib (name "XT30PW-F")(type "KiCad")(uri "/Users/stanislawzalewski/Downloads/XT30PW-F/XT30PW-F.kicad_sym")(options "")(descr ""))
+  (lib (name "FT234XD-T")(type "KiCad")(uri "/Users/stanislawzalewski/Downloads/FT234XD-T/FT234XD-T.kicad_sym")(options "")(descr ""))
 )
