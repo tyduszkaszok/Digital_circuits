@@ -1,4 +1,4 @@
-24196456720939186
+24206865150222577
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6608,6 +6608,20 @@ board-to-board
 30
 30
 Connector
+SMD_Pad 4x1
+
+
+0
+4
+4
+Connector
+SMD_Pad 6x1
+
+
+0
+6
+6
+Connector
 SpringContact_Harwin_S1941-46R
 7.25mm SMT Multi-directional Spring Contact (T+R), https://cdn.harwin.com/pdfs/S1941R.pdf
 spring contact emi emc shield
@@ -6656,6 +6670,13 @@ tag connect programming header pogo pins
 0
 14
 14
+Connector
+XT30PW-F
+
+
+0
+4
+4
 Connector_AMASS
 AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal
 Connector MR30 Horizontal PCB Female, https://www.tme.eu/Document/4a6895c4a2c7eddf355b391fd904cb53/MR30PW-FB.pdf
@@ -57960,6 +57981,13 @@ heatsink
 0
 0
 Inductor_SMD
+DR-125
+
+
+0
+2
+2
+Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
 Choke SMD
@@ -64035,6 +64063,13 @@ solder jumper open
 0
 5
 3
+LED_SMD
+KAA-3528RGBS-11
+
+
+0
+4
+4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -74409,6 +74444,13 @@ DFN package size 0604 3 pins
 0
 3
 3
+Package_DFN_QFN
+SON45P300X300X80-13N
+
+
+0
+13
+13
 Package_DFN_QFN
 ST_UFDFPN-12-1EP_3x3mm_P0.5mm_EP1.4x2.55mm
 ST  UFDFPN, 12 Pin (https://www.st.com/resource/en/datasheet/st25dv04k.pdf#page=152), generated with kicad-footprint-generator ipc_noLead_generator.py
